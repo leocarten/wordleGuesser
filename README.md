@@ -12,7 +12,7 @@ git clone https://github.com/leocarten/wordleGuesser.git
 2. Install program dependencies
 
 ```
-pip install requests re
+pip install requests re enchant
 ```
 
 3. Make sure you have the necesary C libraries for the enchant library. I am using MacOS, so I ran this to update dependencies:
